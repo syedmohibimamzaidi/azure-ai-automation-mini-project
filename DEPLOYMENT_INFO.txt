@@ -1,4 +1,4 @@
 Project: Azure AI Automation Mini Project
-Version: v0.2
+Version: v0.3
 Deployment: Azure App Service (ZIP)
-Date: 2026-02-18
+Date: 2026-02-19
